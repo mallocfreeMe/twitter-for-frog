@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+}
+
+.croak-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    text-align: center;
+}
+
+.croaks {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.croaks>div {
+    background: hsl(0, 0%, 95%);
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.croaks>div>h3 {
+    word-wrap: break-word;
+}
+
+.croaks>div>p {
+    word-wrap: break-word;
+}
+
+.croaks>div:not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
