@@ -1,2 +1,5 @@
 # twitter-for-frog
-project for fun, it's based on tutorial https://www.youtube.com/watch?v=JnEH9tYLxLk
+built a full stack web app based on tutorial https://www.youtube.com/watch?v=JnEH9tYLxLk
+
+client side: vanilla js
+server side: node.js (express)
